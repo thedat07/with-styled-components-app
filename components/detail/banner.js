@@ -106,6 +106,7 @@ export default function Banner({ dataMovie }) {
               style={{
                 width: "1250px",
                 height: "703px",
+
               }}
                 src={`https://image.tmdb.org/t/p/original/${dataMovie.backdrop_path}`}
               ></img>
